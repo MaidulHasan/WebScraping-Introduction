@@ -1,0 +1,1752 @@
+[
+  {
+    "title": "The Shawshank Redemption ",
+    "rating": "9.3",
+    "runtime": "2h 22min",
+    "release_year": "1994",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Departed ",
+    "rating": "8.5",
+    "runtime": "2h 31min",
+    "release_year": "2006",
+    "genre": "Crime"
+  },
+  {
+    "title": "City Lights ",
+    "rating": "8.5",
+    "runtime": "1h 27min",
+    "release_year": "1931",
+    "genre": "Comedy"
+  },
+  {
+    "title": "Hamilton ",
+    "rating": "8.7",
+    "runtime": "2h 40min",
+    "release_year": "2020",
+    "genre": "Biography"
+  },
+  {
+    "title": "Gladiator ",
+    "rating": "8.5",
+    "runtime": "2h 35min",
+    "release_year": "2000",
+    "genre": "Action"
+  },
+  {
+    "title": "Psycho ",
+    "rating": "8.5",
+    "runtime": "1h 49min",
+    "release_year": "1960",
+    "genre": "Horror"
+  },
+  {
+    "title": "Modern Times ",
+    "rating": "8.5",
+    "runtime": "1h 27min",
+    "release_year": "1936",
+    "genre": "Comedy"
+  },
+  {
+    "title": "American History X ",
+    "rating": "8.5",
+    "runtime": "1h 59min",
+    "release_year": "1998",
+    "genre": "Drama"
+  },
+  {
+    "title": "Terminator 2: Judgment Day ",
+    "rating": "8.5",
+    "runtime": "2h 17min",
+    "release_year": "1991",
+    "genre": "Action"
+  },
+  {
+    "title": "The Pianist ",
+    "rating": "8.5",
+    "runtime": "2h 30min",
+    "release_year": "2002",
+    "genre": "Biography"
+  },
+  {
+    "title": "Back to the Future ",
+    "rating": "8.5",
+    "runtime": "1h 56min",
+    "release_year": "1985",
+    "genre": "Adventure"
+  },
+  {
+    "title": "The Lion King ",
+    "rating": "8.5",
+    "runtime": "1h 28min",
+    "release_year": "1994",
+    "genre": "Animation"
+  },
+  {
+    "title": "Kill Bill: Vol. 1 ",
+    "rating": "8.1",
+    "runtime": "1h 51min",
+    "release_year": "2003",
+    "genre": "Action"
+  },
+  {
+    "title": "Stalker ",
+    "rating": "8.2",
+    "runtime": "2h 42min",
+    "release_year": "1979",
+    "genre": "Drama"
+  },
+  {
+    "title": "Blade Runner ",
+    "rating": "8.1",
+    "runtime": "1h 57min",
+    "release_year": "1982",
+    "genre": "Action"
+  },
+  {
+    "title": "Finding Nemo ",
+    "rating": "8.1",
+    "runtime": "1h 40min",
+    "release_year": "2003",
+    "genre": "Animation"
+  },
+  {
+    "title": "Wild Strawberries ",
+    "rating": "8.2",
+    "runtime": "1h 31min",
+    "release_year": "1957",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Truman Show ",
+    "rating": "8.1",
+    "runtime": "1h 43min",
+    "release_year": "1998",
+    "genre": "Comedy"
+  },
+  {
+    "title": "Gone with the Wind ",
+    "rating": "8.1",
+    "runtime": "3h 58min",
+    "release_year": "1939",
+    "genre": "Drama"
+  },
+  {
+    "title": "Jurassic Park ",
+    "rating": "8.1",
+    "runtime": "2h 7min",
+    "release_year": "1993",
+    "genre": "Action"
+  },
+  {
+    "title": "The Thing ",
+    "rating": "8.1",
+    "runtime": "1h 49min",
+    "release_year": "1982",
+    "genre": "Horror"
+  },
+  {
+    "title": "The Sixth Sense ",
+    "rating": "8.1",
+    "runtime": "1h 47min",
+    "release_year": "1999",
+    "genre": "Drama"
+  },
+  {
+    "title": "Trainspotting ",
+    "rating": "8.1",
+    "runtime": "1h 33min",
+    "release_year": "1996",
+    "genre": "Drama"
+  },
+  {
+    "title": "Winter Sleep ",
+    "rating": "8.1",
+    "runtime": "3h 16min",
+    "release_year": "2014",
+    "genre": "Drama"
+  },
+  {
+    "title": "Fanny and Alexander ",
+    "rating": "8.1",
+    "runtime": "3h 8min",
+    "release_year": "1982",
+    "genre": "Drama"
+  },
+  {
+    "title": "A Silent Voice: The Movie ",
+    "rating": "8.1",
+    "runtime": "2h 10min",
+    "release_year": "2016",
+    "genre": "Animation"
+  },
+  {
+    "title": "Tangerines ",
+    "rating": "8.2",
+    "runtime": "1h 27min",
+    "release_year": "2013",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Terminator ",
+    "rating": "8.0",
+    "runtime": "1h 47min",
+    "release_year": "1984",
+    "genre": "Action"
+  },
+  {
+    "title": "The Battle of Algiers ",
+    "rating": "8.1",
+    "runtime": "2h 1min",
+    "release_year": "1966",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Princess Bride ",
+    "rating": "8.1",
+    "runtime": "1h 38min",
+    "release_year": "1987",
+    "genre": "Adventure"
+  },
+  {
+    "title": "The Circus ",
+    "rating": "8.1",
+    "runtime": "1h 12min",
+    "release_year": "1928",
+    "genre": "Comedy"
+  },
+  {
+    "title": "The Help ",
+    "rating": "8.0",
+    "runtime": "2h 26min",
+    "release_year": "2011",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Invisible Guest ",
+    "rating": "8.1",
+    "runtime": "1h 46min",
+    "release_year": "2016",
+    "genre": "Crime"
+  },
+  {
+    "title": "It Happened One Night ",
+    "rating": "8.1",
+    "runtime": "1h 45min",
+    "release_year": "1934",
+    "genre": "Comedy"
+  },
+  {
+    "title": "Drishyam ",
+    "rating": "8.2",
+    "runtime": "2h 43min",
+    "release_year": "2015",
+    "genre": "Crime"
+  },
+  {
+    "title": "Paris, Texas ",
+    "rating": "8.1",
+    "runtime": "2h 25min",
+    "release_year": "1984",
+    "genre": "Drama"
+  },
+  {
+    "title": "In the Mood for Love ",
+    "rating": "8.1",
+    "runtime": "1h 38min",
+    "release_year": "2000",
+    "genre": "Drama"
+  },
+  {
+    "title": "Portrait of a Lady on Fire ",
+    "rating": "8.1",
+    "runtime": "2h 2min",
+    "release_year": "2019",
+    "genre": "Drama"
+  },
+  {
+    "title": "Before Sunset ",
+    "rating": "8.1",
+    "runtime": "1h 20min",
+    "release_year": "2004",
+    "genre": "Drama"
+  },
+  {
+    "title": "Rebecca ",
+    "rating": "8.1",
+    "runtime": "2h 10min",
+    "release_year": "1940",
+    "genre": "Drama"
+  },
+  {
+    "title": "Monsters, Inc. ",
+    "rating": "8.0",
+    "runtime": "1h 32min",
+    "release_year": "2001",
+    "genre": "Animation"
+  },
+  {
+    "title": "Rang De Basanti ",
+    "rating": "8.2",
+    "runtime": "2h 47min",
+    "release_year": "2006",
+    "genre": "Comedy"
+  },
+  {
+    "title": "Rocky ",
+    "rating": "8.1",
+    "runtime": "2h",
+    "release_year": "1976",
+    "genre": "Drama"
+  },
+  {
+    "title": "Gangs of Wasseypur ",
+    "rating": "8.2",
+    "runtime": "5h 21min",
+    "release_year": "2012",
+    "genre": "Action"
+  },
+  {
+    "title": "Nausicaä of the Valley of the Wind ",
+    "rating": "8.1",
+    "runtime": "1h 57min",
+    "release_year": "1984",
+    "genre": "Animation"
+  },
+  {
+    "title": "La Haine ",
+    "rating": "8.1",
+    "runtime": "1h 38min",
+    "release_year": "1995",
+    "genre": "Crime"
+  },
+  {
+    "title": "Amores Perros ",
+    "rating": "8.1",
+    "runtime": "2h 34min",
+    "release_year": "2000",
+    "genre": "Drama"
+  },
+  {
+    "title": "Rififi ",
+    "rating": "8.2",
+    "runtime": "1h 58min",
+    "release_year": "1955",
+    "genre": "Crime"
+  },
+  {
+    "title": "Spotlight ",
+    "rating": "8.1",
+    "runtime": "2h 9min",
+    "release_year": "2015",
+    "genre": "Biography"
+  },
+  {
+    "title": "Hotel Rwanda ",
+    "rating": "8.1",
+    "runtime": "2h 1min",
+    "release_year": "2004",
+    "genre": "Biography"
+  },
+  {
+    "title": "Andrei Rublev ",
+    "rating": "8.1",
+    "runtime": "3h 25min",
+    "release_year": "1966",
+    "genre": "Biography"
+  },
+  {
+    "title": "The 400 Blows ",
+    "rating": "8.1",
+    "runtime": "1h 39min",
+    "release_year": "1959",
+    "genre": "Crime"
+  },
+  {
+    "title": "The Passion of Joan of Arc ",
+    "rating": "8.1",
+    "runtime": "1h 54min",
+    "release_year": "1928",
+    "genre": "Biography"
+  },
+  {
+    "title": "The Handmaiden ",
+    "rating": "8.1",
+    "runtime": "2h 25min",
+    "release_year": "2016",
+    "genre": "Drama"
+  },
+  {
+    "title": "Rush ",
+    "rating": "8.1",
+    "runtime": "2h 3min",
+    "release_year": "2013",
+    "genre": "Action"
+  },
+  {
+    "title": "Monty Python's Life of Brian ",
+    "rating": "8.1",
+    "runtime": "1h 34min",
+    "release_year": "1979",
+    "genre": "Comedy"
+  },
+  {
+    "title": "The Wages of Fear ",
+    "rating": "8.1",
+    "runtime": "2h 11min",
+    "release_year": "1953",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Logan ",
+    "rating": "8.1",
+    "runtime": "2h 17min",
+    "release_year": "2017",
+    "genre": "Action"
+  },
+  {
+    "title": "Platoon ",
+    "rating": "8.1",
+    "runtime": "2h",
+    "release_year": "1986",
+    "genre": "Drama"
+  },
+  {
+    "title": "Into the Wild ",
+    "rating": "8.1",
+    "runtime": "2h 28min",
+    "release_year": "2007",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows: Part 2 ",
+    "rating": "8.1",
+    "runtime": "2h 10min",
+    "release_year": "2011",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Ben-Hur ",
+    "rating": "8.1",
+    "runtime": "3h 32min",
+    "release_year": "1959",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Hachi: A Dog's Tale ",
+    "rating": "8.1",
+    "runtime": "1h 33min",
+    "release_year": "2009",
+    "genre": "Drama"
+  },
+  {
+    "title": "Dead Poets Society ",
+    "rating": "8.1",
+    "runtime": "2h 8min",
+    "release_year": "1989",
+    "genre": "Comedy"
+  },
+  {
+    "title": "Cool Hand Luke ",
+    "rating": "8.1",
+    "runtime": "2h 7min",
+    "release_year": "1967",
+    "genre": "Crime"
+  },
+  {
+    "title": "Million Dollar Baby ",
+    "rating": "8.1",
+    "runtime": "2h 12min",
+    "release_year": "2004",
+    "genre": "Drama"
+  },
+  {
+    "title": "Network ",
+    "rating": "8.1",
+    "runtime": "2h 1min",
+    "release_year": "1976",
+    "genre": "Drama"
+  },
+  {
+    "title": "Stand by Me ",
+    "rating": "8.1",
+    "runtime": "1h 29min",
+    "release_year": "1986",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Mad Max: Fury Road ",
+    "rating": "8.1",
+    "runtime": "2h",
+    "release_year": "2015",
+    "genre": "Action"
+  },
+  {
+    "title": "Barry Lyndon ",
+    "rating": "8.1",
+    "runtime": "3h 5min",
+    "release_year": "1975",
+    "genre": "Adventure"
+  },
+  {
+    "title": "12 Years a Slave ",
+    "rating": "8.1",
+    "runtime": "2h 14min",
+    "release_year": "2013",
+    "genre": "Biography"
+  },
+  {
+    "title": "Mr. Smith Goes to Washington ",
+    "rating": "8.1",
+    "runtime": "2h 9min",
+    "release_year": "1939",
+    "genre": "Comedy"
+  },
+  {
+    "title": "How to Train Your Dragon ",
+    "rating": "8.1",
+    "runtime": "1h 38min",
+    "release_year": "2010",
+    "genre": "Animation"
+  },
+  {
+    "title": "The General ",
+    "rating": "8.1",
+    "runtime": "1h 7min",
+    "release_year": "1926",
+    "genre": "Action"
+  },
+  {
+    "title": "Ford v Ferrari ",
+    "rating": "8.1",
+    "runtime": "2h 32min",
+    "release_year": "2019",
+    "genre": "Action"
+  },
+  {
+    "title": "Sherlock Jr. ",
+    "rating": "8.2",
+    "runtime": "45min",
+    "release_year": "1924",
+    "genre": "Action"
+  },
+  {
+    "title": "Prisoners ",
+    "rating": "8.1",
+    "runtime": "2h 33min",
+    "release_year": "2013",
+    "genre": "Crime"
+  },
+  {
+    "title": "To Be or Not to Be ",
+    "rating": "8.2",
+    "runtime": "1h 39min",
+    "release_year": "1942",
+    "genre": "Comedy"
+  },
+  {
+    "title": "The Bandit ",
+    "rating": "8.2",
+    "runtime": "2h 8min",
+    "release_year": "1996",
+    "genre": "Crime"
+  },
+  {
+    "title": "Persona ",
+    "rating": "8.1",
+    "runtime": "1h 23min",
+    "release_year": "1966",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Big Lebowski ",
+    "rating": "8.1",
+    "runtime": "1h 57min",
+    "release_year": "1998",
+    "genre": "Comedy"
+  },
+  {
+    "title": "Catch Me If You Can ",
+    "rating": "8.1",
+    "runtime": "2h 21min",
+    "release_year": "2002",
+    "genre": "Biography"
+  },
+  {
+    "title": "Before Sunrise ",
+    "rating": "8.1",
+    "runtime": "1h 41min",
+    "release_year": "1995",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Grand Budapest Hotel ",
+    "rating": "8.1",
+    "runtime": "1h 39min",
+    "release_year": "2014",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Hacksaw Ridge ",
+    "rating": "8.1",
+    "runtime": "2h 19min",
+    "release_year": "2016",
+    "genre": "Biography"
+  },
+  {
+    "title": "Gone Girl ",
+    "rating": "8.1",
+    "runtime": "2h 29min",
+    "release_year": "2014",
+    "genre": "Drama"
+  },
+  {
+    "title": "Andhadhun ",
+    "rating": "8.3",
+    "runtime": "2h 19min",
+    "release_year": "2018",
+    "genre": "Crime"
+  },
+  {
+    "title": "Mary and Max ",
+    "rating": "8.1",
+    "runtime": "1h 32min",
+    "release_year": "2009",
+    "genre": "Animation"
+  },
+  {
+    "title": "In the Name of the Father ",
+    "rating": "8.1",
+    "runtime": "2h 13min",
+    "release_year": "1993",
+    "genre": "Biography"
+  },
+  {
+    "title": "Klaus ",
+    "rating": "8.2",
+    "runtime": "1h 36min",
+    "release_year": "2019",
+    "genre": "Animation"
+  },
+  {
+    "title": "The Deer Hunter ",
+    "rating": "8.1",
+    "runtime": "3h 3min",
+    "release_year": "1978",
+    "genre": "Drama"
+  },
+  {
+    "title": "Wild Tales ",
+    "rating": "8.1",
+    "runtime": "2h 2min",
+    "release_year": "2014",
+    "genre": "Comedy"
+  },
+  {
+    "title": "On the Waterfront ",
+    "rating": "8.1",
+    "runtime": "1h 48min",
+    "release_year": "1954",
+    "genre": "Crime"
+  },
+  {
+    "title": "Gran Torino ",
+    "rating": "8.1",
+    "runtime": "1h 56min",
+    "release_year": "2008",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Third Man ",
+    "rating": "8.1",
+    "runtime": "1h 33min",
+    "release_year": "1949",
+    "genre": "Film-Noir"
+  },
+  {
+    "title": "Tokyo Story ",
+    "rating": "8.2",
+    "runtime": "2h 16min",
+    "release_year": "1953",
+    "genre": "Drama"
+  },
+  {
+    "title": "Memories of Murder ",
+    "rating": "8.1",
+    "runtime": "2h 12min",
+    "release_year": "2003",
+    "genre": "Action"
+  },
+  {
+    "title": "Fargo ",
+    "rating": "8.1",
+    "runtime": "1h 38min",
+    "release_year": "1996",
+    "genre": "Crime"
+  },
+  {
+    "title": "The Bridge on the River Kwai ",
+    "rating": "8.1",
+    "runtime": "2h 41min",
+    "release_year": "1957",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Room ",
+    "rating": "8.1",
+    "runtime": "1h 58min",
+    "release_year": "2015",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Elephant Man ",
+    "rating": "8.1",
+    "runtime": "2h 4min",
+    "release_year": "1980",
+    "genre": "Biography"
+  },
+  {
+    "title": "Warrior ",
+    "rating": "8.2",
+    "runtime": "2h 20min",
+    "release_year": "2011",
+    "genre": "Action"
+  },
+  {
+    "title": "Inside Out ",
+    "rating": "8.1",
+    "runtime": "1h 35min",
+    "release_year": "2015",
+    "genre": "Animation"
+  },
+  {
+    "title": "The Seventh Seal ",
+    "rating": "8.2",
+    "runtime": "1h 36min",
+    "release_year": "1957",
+    "genre": "Drama"
+  },
+  {
+    "title": "V for Vendetta ",
+    "rating": "8.2",
+    "runtime": "2h 12min",
+    "release_year": "2005",
+    "genre": "Action"
+  },
+  {
+    "title": "No Country for Old Men ",
+    "rating": "8.1",
+    "runtime": "2h 2min",
+    "release_year": "2007",
+    "genre": "Crime"
+  },
+  {
+    "title": "Shutter Island ",
+    "rating": "8.2",
+    "runtime": "2h 18min",
+    "release_year": "2010",
+    "genre": "Mystery"
+  },
+  {
+    "title": "The Gold Rush ",
+    "rating": "8.2",
+    "runtime": "1h 35min",
+    "release_year": "1925",
+    "genre": "Adventure"
+  },
+  {
+    "title": "My Father and My Son ",
+    "rating": "8.3",
+    "runtime": "1h 52min",
+    "release_year": "2005",
+    "genre": "Drama"
+  },
+  {
+    "title": "Chinatown ",
+    "rating": "8.1",
+    "runtime": "2h 10min",
+    "release_year": "1974",
+    "genre": "Drama"
+  },
+  {
+    "title": "Dial M for Murder ",
+    "rating": "8.2",
+    "runtime": "1h 45min",
+    "release_year": "1954",
+    "genre": "Crime"
+  },
+  {
+    "title": "Three Billboards Outside Ebbing, Missouri ",
+    "rating": "8.2",
+    "runtime": "1h 55min",
+    "release_year": "2017",
+    "genre": "Comedy"
+  },
+  {
+    "title": "The Treasure of the Sierra Madre ",
+    "rating": "8.2",
+    "runtime": "2h 6min",
+    "release_year": "1948",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Judgment at Nuremberg ",
+    "rating": "8.2",
+    "runtime": "2h 59min",
+    "release_year": "1961",
+    "genre": "Drama"
+  },
+  {
+    "title": "There Will Be Blood ",
+    "rating": "8.2",
+    "runtime": "2h 38min",
+    "release_year": "2007",
+    "genre": "Drama"
+  },
+  {
+    "title": "My Neighbor Totoro ",
+    "rating": "8.2",
+    "runtime": "1h 26min",
+    "release_year": "1988",
+    "genre": "Animation"
+  },
+  {
+    "title": "Raging Bull ",
+    "rating": "8.2",
+    "runtime": "2h 9min",
+    "release_year": "1980",
+    "genre": "Biography"
+  },
+  {
+    "title": "Lock, Stock and Two Smoking Barrels ",
+    "rating": "8.2",
+    "runtime": "1h 47min",
+    "release_year": "1998",
+    "genre": "Action"
+  },
+  {
+    "title": "The Secret in Their Eyes ",
+    "rating": "8.2",
+    "runtime": "2h 9min",
+    "release_year": "2009",
+    "genre": "Drama"
+  },
+  {
+    "title": "Pan's Labyrinth ",
+    "rating": "8.2",
+    "runtime": "1h 58min",
+    "release_year": "2006",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Wolf of Wall Street ",
+    "rating": "8.2",
+    "runtime": "3h",
+    "release_year": "2013",
+    "genre": "Biography"
+  },
+  {
+    "title": "All About Eve ",
+    "rating": "8.2",
+    "runtime": "2h 18min",
+    "release_year": "1950",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Great Escape ",
+    "rating": "8.2",
+    "runtime": "2h 52min",
+    "release_year": "1963",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Casino ",
+    "rating": "8.2",
+    "runtime": "2h 58min",
+    "release_year": "1995",
+    "genre": "Crime"
+  },
+  {
+    "title": "A Beautiful Mind ",
+    "rating": "8.2",
+    "runtime": "2h 15min",
+    "release_year": "2001",
+    "genre": "Biography"
+  },
+  {
+    "title": "Anand ",
+    "rating": "8.5",
+    "runtime": "2h 2min",
+    "release_year": "1971",
+    "genre": "Drama"
+  },
+  {
+    "title": "Howl's Moving Castle ",
+    "rating": "8.2",
+    "runtime": "1h 59min",
+    "release_year": "2004",
+    "genre": "Animation"
+  },
+  {
+    "title": "Ran ",
+    "rating": "8.2",
+    "runtime": "2h 42min",
+    "release_year": "1985",
+    "genre": "Action"
+  },
+  {
+    "title": "Some Like It Hot ",
+    "rating": "8.2",
+    "runtime": "2h 1min",
+    "release_year": "1959",
+    "genre": "Comedy"
+  },
+  {
+    "title": "Unforgiven ",
+    "rating": "8.2",
+    "runtime": "2h 10min",
+    "release_year": "1992",
+    "genre": "Drama"
+  },
+  {
+    "title": "Downfall ",
+    "rating": "8.2",
+    "runtime": "2h 36min",
+    "release_year": "2004",
+    "genre": "Biography"
+  },
+  {
+    "title": "Children of Heaven ",
+    "rating": "8.3",
+    "runtime": "1h 29min",
+    "release_year": "1997",
+    "genre": "Drama"
+  },
+  {
+    "title": "Green Book ",
+    "rating": "8.2",
+    "runtime": "2h 10min",
+    "release_year": "2018",
+    "genre": "Biography"
+  },
+  {
+    "title": "Yojimbo ",
+    "rating": "8.2",
+    "runtime": "1h 50min",
+    "release_year": "1961",
+    "genre": "Action"
+  },
+  {
+    "title": "Batman Begins ",
+    "rating": "8.2",
+    "runtime": "2h 20min",
+    "release_year": "2005",
+    "genre": "Action"
+  },
+  {
+    "title": "Rashomon ",
+    "rating": "8.2",
+    "runtime": "1h 28min",
+    "release_year": "1950",
+    "genre": "Crime"
+  },
+  {
+    "title": "Monty Python and the Holy Grail ",
+    "rating": "8.2",
+    "runtime": "1h 31min",
+    "release_year": "1975",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Die Hard ",
+    "rating": "8.2",
+    "runtime": "2h 12min",
+    "release_year": "1988",
+    "genre": "Action"
+  },
+  {
+    "title": "Heat ",
+    "rating": "8.2",
+    "runtime": "2h 50min",
+    "release_year": "1995",
+    "genre": "Crime"
+  },
+  {
+    "title": "L.A. Confidential ",
+    "rating": "8.2",
+    "runtime": "2h 18min",
+    "release_year": "1997",
+    "genre": "Crime"
+  },
+  {
+    "title": "Indiana Jones and the Last Crusade ",
+    "rating": "8.2",
+    "runtime": "2h 7min",
+    "release_year": "1989",
+    "genre": "Action"
+  },
+  {
+    "title": "Up ",
+    "rating": "8.2",
+    "runtime": "1h 36min",
+    "release_year": "2009",
+    "genre": "Animation"
+  },
+  {
+    "title": "To Kill a Mockingbird ",
+    "rating": "8.2",
+    "runtime": "2h 9min",
+    "release_year": "1962",
+    "genre": "Crime"
+  },
+  {
+    "title": "Double Indemnity ",
+    "rating": "8.3",
+    "runtime": "1h 47min",
+    "release_year": "1944",
+    "genre": "Crime"
+  },
+  {
+    "title": "Come and See ",
+    "rating": "8.3",
+    "runtime": "2h 22min",
+    "release_year": "1985",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Apartment ",
+    "rating": "8.3",
+    "runtime": "2h 5min",
+    "release_year": "1960",
+    "genre": "Comedy"
+  },
+  {
+    "title": "Incendies ",
+    "rating": "8.3",
+    "runtime": "2h 11min",
+    "release_year": "2010",
+    "genre": "Drama"
+  },
+  {
+    "title": "For a Few Dollars More ",
+    "rating": "8.3",
+    "runtime": "2h 12min",
+    "release_year": "1965",
+    "genre": "Western"
+  },
+  {
+    "title": "A Separation ",
+    "rating": "8.3",
+    "runtime": "2h 3min",
+    "release_year": "2011",
+    "genre": "Drama"
+  },
+  {
+    "title": "Metropolis ",
+    "rating": "8.3",
+    "runtime": "2h 33min",
+    "release_year": "1927",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Sting ",
+    "rating": "8.3",
+    "runtime": "2h 9min",
+    "release_year": "1973",
+    "genre": "Comedy"
+  },
+  {
+    "title": "Toy Story 3 ",
+    "rating": "8.3",
+    "runtime": "1h 43min",
+    "release_year": "2010",
+    "genre": "Animation"
+  },
+  {
+    "title": "Amélie ",
+    "rating": "8.3",
+    "runtime": "2h 2min",
+    "release_year": "2001",
+    "genre": "Comedy"
+  },
+  {
+    "title": "Lawrence of Arabia ",
+    "rating": "8.3",
+    "runtime": "3h 48min",
+    "release_year": "1962",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Ikiru ",
+    "rating": "8.3",
+    "runtime": "2h 23min",
+    "release_year": "1952",
+    "genre": "Drama"
+  },
+  {
+    "title": "Taxi Driver ",
+    "rating": "8.3",
+    "runtime": "1h 54min",
+    "release_year": "1976",
+    "genre": "Crime"
+  },
+  {
+    "title": "Scarface ",
+    "rating": "8.3",
+    "runtime": "2h 50min",
+    "release_year": "1983",
+    "genre": "Crime"
+  },
+  {
+    "title": "Snatch ",
+    "rating": "8.3",
+    "runtime": "1h 42min",
+    "release_year": "2000",
+    "genre": "Comedy"
+  },
+  {
+    "title": "North by Northwest ",
+    "rating": "8.3",
+    "runtime": "2h 16min",
+    "release_year": "1959",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Singin' in the Rain ",
+    "rating": "8.3",
+    "runtime": "1h 43min",
+    "release_year": "1952",
+    "genre": "Comedy"
+  },
+  {
+    "title": "A Clockwork Orange ",
+    "rating": "8.3",
+    "runtime": "2h 16min",
+    "release_year": "1971",
+    "genre": "Crime"
+  },
+  {
+    "title": "The Kid ",
+    "rating": "8.3",
+    "runtime": "1h 8min",
+    "release_year": "1921",
+    "genre": "Comedy"
+  },
+  {
+    "title": "Bicycle Thieves ",
+    "rating": "8.3",
+    "runtime": "1h 29min",
+    "release_year": "1948",
+    "genre": "Drama"
+  },
+  {
+    "title": "Full Metal Jacket ",
+    "rating": "8.3",
+    "runtime": "1h 56min",
+    "release_year": "1987",
+    "genre": "Drama"
+  },
+  {
+    "title": "Citizen Kane ",
+    "rating": "8.3",
+    "runtime": "1h 59min",
+    "release_year": "1941",
+    "genre": "Drama"
+  },
+  {
+    "title": "1917 ",
+    "rating": "8.3",
+    "runtime": "1h 59min",
+    "release_year": "2019",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Hunt ",
+    "rating": "8.3",
+    "runtime": "1h 55min",
+    "release_year": "2012",
+    "genre": "Drama"
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind ",
+    "rating": "8.3",
+    "runtime": "1h 48min",
+    "release_year": "2004",
+    "genre": "Drama"
+  },
+  {
+    "title": "Dangal ",
+    "rating": "8.4",
+    "runtime": "2h 41min",
+    "release_year": "2016",
+    "genre": "Action"
+  },
+  {
+    "title": "M ",
+    "rating": "8.3",
+    "runtime": "1h 39min",
+    "release_year": "1931",
+    "genre": "Crime"
+  },
+  {
+    "title": "Vertigo ",
+    "rating": "8.3",
+    "runtime": "2h 8min",
+    "release_year": "1958",
+    "genre": "Mystery"
+  },
+  {
+    "title": "Requiem for a Dream ",
+    "rating": "8.3",
+    "runtime": "1h 42min",
+    "release_year": "2000",
+    "genre": "Drama"
+  },
+  {
+    "title": "2001: A Space Odyssey ",
+    "rating": "8.3",
+    "runtime": "2h 29min",
+    "release_year": "1968",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Good Will Hunting ",
+    "rating": "8.3",
+    "runtime": "2h 6min",
+    "release_year": "1997",
+    "genre": "Drama"
+  },
+  {
+    "title": "Reservoir Dogs ",
+    "rating": "8.3",
+    "runtime": "1h 39min",
+    "release_year": "1992",
+    "genre": "Crime"
+  },
+  {
+    "title": "Inglourious Basterds ",
+    "rating": "8.3",
+    "runtime": "2h 33min",
+    "release_year": "2009",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Star Wars: Episode VI - Return of the Jedi ",
+    "rating": "8.3",
+    "runtime": "2h 11min",
+    "release_year": "1983",
+    "genre": "Action"
+  },
+  {
+    "title": "Capernaum ",
+    "rating": "8.4",
+    "runtime": "2h 6min",
+    "release_year": "2018",
+    "genre": "Drama"
+  },
+  {
+    "title": "Like Stars on Earth ",
+    "rating": "8.4",
+    "runtime": "2h 45min",
+    "release_year": "2007",
+    "genre": "Drama"
+  },
+  {
+    "title": "Amadeus ",
+    "rating": "8.3",
+    "runtime": "2h 40min",
+    "release_year": "1984",
+    "genre": "Biography"
+  },
+  {
+    "title": "High and Low ",
+    "rating": "8.4",
+    "runtime": "2h 23min",
+    "release_year": "1963",
+    "genre": "Crime"
+  },
+  {
+    "title": "Toy Story ",
+    "rating": "8.3",
+    "runtime": "1h 21min",
+    "release_year": "1995",
+    "genre": "Animation"
+  },
+  {
+    "title": "Das Boot ",
+    "rating": "8.3",
+    "runtime": "2h 29min",
+    "release_year": "1981",
+    "genre": "Adventure"
+  },
+  {
+    "title": "3 Idiots ",
+    "rating": "8.4",
+    "runtime": "2h 50min",
+    "release_year": "2009",
+    "genre": "Comedy"
+  },
+  {
+    "title": "Braveheart ",
+    "rating": "8.3",
+    "runtime": "2h 58min",
+    "release_year": "1995",
+    "genre": "Biography"
+  },
+  {
+    "title": "American Beauty ",
+    "rating": "8.3",
+    "runtime": "2h 2min",
+    "release_year": "1999",
+    "genre": "Drama"
+  },
+  {
+    "title": "Coco ",
+    "rating": "8.4",
+    "runtime": "1h 45min",
+    "release_year": "2017",
+    "genre": "Animation"
+  },
+  {
+    "title": "Your Name. ",
+    "rating": "8.4",
+    "runtime": "1h 46min",
+    "release_year": "2016",
+    "genre": "Animation"
+  },
+  {
+    "title": "Avengers: Endgame ",
+    "rating": "8.4",
+    "runtime": "3h 1min",
+    "release_year": "2019",
+    "genre": "Action"
+  },
+  {
+    "title": "Aliens ",
+    "rating": "8.3",
+    "runtime": "2h 17min",
+    "release_year": "1986",
+    "genre": "Action"
+  },
+  {
+    "title": "Once Upon a Time in America ",
+    "rating": "8.4",
+    "runtime": "3h 49min",
+    "release_year": "1984",
+    "genre": "Crime"
+  },
+  {
+    "title": "The Dark Knight Rises ",
+    "rating": "8.4",
+    "runtime": "2h 44min",
+    "release_year": "2012",
+    "genre": "Action"
+  },
+  {
+    "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb ",
+    "rating": "8.4",
+    "runtime": "1h 35min",
+    "release_year": "1964",
+    "genre": "Comedy"
+  },
+  {
+    "title": "Oldboy ",
+    "rating": "8.4",
+    "runtime": "2h",
+    "release_year": "2003",
+    "genre": "Action"
+  },
+  {
+    "title": "Princess Mononoke ",
+    "rating": "8.4",
+    "runtime": "2h 14min",
+    "release_year": "1997",
+    "genre": "Animation"
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse ",
+    "rating": "8.4",
+    "runtime": "1h 57min",
+    "release_year": "2018",
+    "genre": "Animation"
+  },
+  {
+    "title": "Witness for the Prosecution ",
+    "rating": "8.4",
+    "runtime": "1h 56min",
+    "release_year": "1957",
+    "genre": "Crime"
+  },
+  {
+    "title": "Sunset Blvd. ",
+    "rating": "8.4",
+    "runtime": "1h 50min",
+    "release_year": "1950",
+    "genre": "Drama"
+  },
+  {
+    "title": "Avengers: Infinity War ",
+    "rating": "8.4",
+    "runtime": "2h 29min",
+    "release_year": "2018",
+    "genre": "Action"
+  },
+  {
+    "title": "The Shining ",
+    "rating": "8.4",
+    "runtime": "2h 26min",
+    "release_year": "1980",
+    "genre": "Drama"
+  },
+  {
+    "title": "WALL·E ",
+    "rating": "8.4",
+    "runtime": "1h 38min",
+    "release_year": "2008",
+    "genre": "Animation"
+  },
+  {
+    "title": "Paths of Glory ",
+    "rating": "8.4",
+    "runtime": "1h 28min",
+    "release_year": "1957",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Lives of Others ",
+    "rating": "8.4",
+    "runtime": "2h 17min",
+    "release_year": "2006",
+    "genre": "Drama"
+  },
+  {
+    "title": "Joker ",
+    "rating": "8.5",
+    "runtime": "2h 2min",
+    "release_year": "2019",
+    "genre": "Crime"
+  },
+  {
+    "title": "Django Unchained ",
+    "rating": "8.4",
+    "runtime": "2h 45min",
+    "release_year": "2012",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Great Dictator ",
+    "rating": "8.4",
+    "runtime": "2h 5min",
+    "release_year": "1940",
+    "genre": "Comedy"
+  },
+  {
+    "title": "Raiders of the Lost Ark ",
+    "rating": "8.4",
+    "runtime": "1h 55min",
+    "release_year": "1981",
+    "genre": "Action"
+  },
+  {
+    "title": "Memento ",
+    "rating": "8.4",
+    "runtime": "1h 53min",
+    "release_year": "2000",
+    "genre": "Mystery"
+  },
+  {
+    "title": "Apocalypse Now ",
+    "rating": "8.4",
+    "runtime": "2h 27min",
+    "release_year": "1979",
+    "genre": "Drama"
+  },
+  {
+    "title": "Alien ",
+    "rating": "8.4",
+    "runtime": "1h 57min",
+    "release_year": "1979",
+    "genre": "Horror"
+  },
+  {
+    "title": "Rear Window ",
+    "rating": "8.4",
+    "runtime": "1h 52min",
+    "release_year": "1954",
+    "genre": "Mystery"
+  },
+  {
+    "title": "Cinema Paradiso ",
+    "rating": "8.5",
+    "runtime": "2h 35min",
+    "release_year": "1988",
+    "genre": "Drama"
+  },
+  {
+    "title": "Casablanca ",
+    "rating": "8.5",
+    "runtime": "1h 42min",
+    "release_year": "1942",
+    "genre": "Drama"
+  },
+  {
+    "title": "Once Upon a Time in the West ",
+    "rating": "8.5",
+    "runtime": "2h 45min",
+    "release_year": "1968",
+    "genre": "Western"
+  },
+  {
+    "title": "Grave of the Fireflies ",
+    "rating": "8.5",
+    "runtime": "1h 29min",
+    "release_year": "1988",
+    "genre": "Animation"
+  },
+  {
+    "title": "The Prestige ",
+    "rating": "8.5",
+    "runtime": "2h 10min",
+    "release_year": "2006",
+    "genre": "Drama"
+  },
+  {
+    "title": "Whiplash ",
+    "rating": "8.5",
+    "runtime": "1h 46min",
+    "release_year": "2014",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Intouchables ",
+    "rating": "8.5",
+    "runtime": "1h 52min",
+    "release_year": "2011",
+    "genre": "Biography"
+  },
+  {
+    "title": "Harakiri ",
+    "rating": "8.6",
+    "runtime": "2h 13min",
+    "release_year": "1962",
+    "genre": "Action"
+  },
+  {
+    "title": "The Usual Suspects ",
+    "rating": "8.5",
+    "runtime": "1h 46min",
+    "release_year": "1995",
+    "genre": "Crime"
+  },
+  {
+    "title": "Léon: The Professional ",
+    "rating": "8.5",
+    "runtime": "1h 50min",
+    "release_year": "1994",
+    "genre": "Action"
+  },
+  {
+    "title": "Interstellar ",
+    "rating": "8.6",
+    "runtime": "2h 49min",
+    "release_year": "2014",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Parasite ",
+    "rating": "8.6",
+    "runtime": "2h 12min",
+    "release_year": "2019",
+    "genre": "Comedy"
+  },
+  {
+    "title": "The Green Mile ",
+    "rating": "8.6",
+    "runtime": "3h 9min",
+    "release_year": "1999",
+    "genre": "Crime"
+  },
+  {
+    "title": "Spirited Away ",
+    "rating": "8.6",
+    "runtime": "2h 5min",
+    "release_year": "2001",
+    "genre": "Animation"
+  },
+  {
+    "title": "Saving Private Ryan ",
+    "rating": "8.6",
+    "runtime": "2h 49min",
+    "release_year": "1998",
+    "genre": "Drama"
+  },
+  {
+    "title": "Star Wars: Episode IV - A New Hope ",
+    "rating": "8.6",
+    "runtime": "2h 1min",
+    "release_year": "1977",
+    "genre": "Action"
+  },
+  {
+    "title": "It's a Wonderful Life ",
+    "rating": "8.6",
+    "runtime": "2h 10min",
+    "release_year": "1946",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Silence of the Lambs ",
+    "rating": "8.6",
+    "runtime": "1h 58min",
+    "release_year": "1991",
+    "genre": "Crime"
+  },
+  {
+    "title": "City of God ",
+    "rating": "8.6",
+    "runtime": "2h 10min",
+    "release_year": "2002",
+    "genre": "Crime"
+  },
+  {
+    "title": "Life Is Beautiful ",
+    "rating": "8.6",
+    "runtime": "1h 56min",
+    "release_year": "1997",
+    "genre": "Comedy"
+  },
+  {
+    "title": "Se7en ",
+    "rating": "8.6",
+    "runtime": "2h 7min",
+    "release_year": "1995",
+    "genre": "Crime"
+  },
+  {
+    "title": "Seven Samurai ",
+    "rating": "8.6",
+    "runtime": "3h 27min",
+    "release_year": "1954",
+    "genre": "Action"
+  },
+  {
+    "title": "One Flew Over the Cuckoo's Nest ",
+    "rating": "8.7",
+    "runtime": "2h 13min",
+    "release_year": "1975",
+    "genre": "Drama"
+  },
+  {
+    "title": "Goodfellas ",
+    "rating": "8.7",
+    "runtime": "2h 26min",
+    "release_year": "1990",
+    "genre": "Biography"
+  },
+  {
+    "title": "The Matrix ",
+    "rating": "8.7",
+    "runtime": "2h 16min",
+    "release_year": "1999",
+    "genre": "Action"
+  },
+  {
+    "title": "Star Wars: Episode V - The Empire Strikes Back ",
+    "rating": "8.7",
+    "runtime": "2h 4min",
+    "release_year": "1980",
+    "genre": "Action"
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers ",
+    "rating": "8.7",
+    "runtime": "2h 59min",
+    "release_year": "2002",
+    "genre": "Action"
+  },
+  {
+    "title": "Inception ",
+    "rating": "8.8",
+    "runtime": "2h 28min",
+    "release_year": "2010",
+    "genre": "Action"
+  },
+  {
+    "title": "Forrest Gump ",
+    "rating": "8.8",
+    "runtime": "2h 22min",
+    "release_year": "1994",
+    "genre": "Drama"
+  },
+  {
+    "title": "Fight Club ",
+    "rating": "8.8",
+    "runtime": "2h 19min",
+    "release_year": "1999",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring ",
+    "rating": "8.8",
+    "runtime": "2h 58min",
+    "release_year": "2001",
+    "genre": "Action"
+  },
+  {
+    "title": "The Good, the Bad and the Ugly ",
+    "rating": "8.8",
+    "runtime": "2h 58min",
+    "release_year": "1966",
+    "genre": "Western"
+  },
+  {
+    "title": "Pulp Fiction ",
+    "rating": "8.9",
+    "runtime": "2h 34min",
+    "release_year": "1994",
+    "genre": "Crime"
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King ",
+    "rating": "8.9",
+    "runtime": "3h 21min",
+    "release_year": "2003",
+    "genre": "Action"
+  },
+  {
+    "title": "Schindler's List ",
+    "rating": "8.9",
+    "runtime": "3h 15min",
+    "release_year": "1993",
+    "genre": "Biography"
+  },
+  {
+    "title": "12 Angry Men ",
+    "rating": "8.9",
+    "runtime": "1h 36min",
+    "release_year": "1957",
+    "genre": "Crime"
+  },
+  {
+    "title": "The Dark Knight ",
+    "rating": "9.0",
+    "runtime": "2h 32min",
+    "release_year": "2008",
+    "genre": "Action"
+  },
+  {
+    "title": "The Godfather: Part II ",
+    "rating": "9.0",
+    "runtime": "3h 22min",
+    "release_year": "1974",
+    "genre": "Crime"
+  },
+  {
+    "title": "The Godfather ",
+    "rating": "9.2",
+    "runtime": "2h 55min",
+    "release_year": "1972",
+    "genre": "Crime"
+  }
+]

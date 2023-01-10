@@ -1,0 +1,8 @@
+1. hackernews (https://news.ycombinator.com/jobs)
+2. worldometer (We want to extract daily new covid 19 cases and deaths in bangladesh from worldometer and we also want to tweet that data using the twitter API.)
+3. amazon
+    a) lead generation
+    b) price monitoring 
+    c) drop shipping
+4. stock market tracking
+5. real estate listing
